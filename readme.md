@@ -1,6 +1,6 @@
 # filecoin技术架构分析
 
-> 作者：先河系统杨尉(waynewyang),转载请注明出处
+> 作者：杨尉(waynewyang),转载请注明出处
 
 ## 目录
 - [1 filecoin概念](1.md)
